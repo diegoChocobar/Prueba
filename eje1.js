@@ -1,4 +1,4 @@
-var i = 0;
+var i = 8;
 var d = "diego chocobar";
 var suma = 1+2;
 console.log(d);
