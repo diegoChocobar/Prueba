@@ -1,6 +1,9 @@
 var i = 8;
-var d = "diego chocobar";
-var suma = 1+2;
+var j = 4;
+var d = "Prueba: 16-02-2021";
+
+var suma = i+j;
 console.log(d);
-console.log(suma);
-console.log(d+suma);
+console.log("Variable 1: "+i);
+console.log("Variable 2: "+j);
+console.log("Suma->"+suma);
