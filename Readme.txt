@@ -12,6 +12,8 @@ git push; actualiza nuestra area remetota (nube github) con lo que tenemos en el
 
 git pull; actualiza nuestra area local con lo que tenemos en el area remota (nube github)
 
+git clone <url github>; se utiliza para clonar un repositorio (descargar el proyecto en nuestra pc)
+
 
 En la siguiente pagina web podemos ver comandos para el manejo de git-github:
 https://www.hostinger.com.ar/tutoriales/comandos-de-git
