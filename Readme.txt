@@ -20,4 +20,4 @@ https://www.hostinger.com.ar/tutoriales/comandos-de-git
 
 
 
-actualizacion 02/04/2022
+actualizacion 02/04/2022 rama developer
