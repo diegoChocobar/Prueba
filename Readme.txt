@@ -17,3 +17,7 @@ git clone <url github>; se utiliza para clonar un repositorio (descargar el proy
 
 En la siguiente pagina web podemos ver comandos para el manejo de git-github:
 https://www.hostinger.com.ar/tutoriales/comandos-de-git
+
+
+
+actualizacion 02/04/2022
